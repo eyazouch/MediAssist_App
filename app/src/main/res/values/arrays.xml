@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender_array">
+        <item>Homme</item>
+        <item>Femme</item>
+    </string-array>
+
+    <string-array name="frequency_array">
+        <item>Une fois par jour</item>
+        <item>Deux fois par jour</item>
+        <item>Trois fois par jour</item>
+        <item>Quatre fois par jour</item>
+        <item>Au besoin</item>
+    </string-array>
+</resources>

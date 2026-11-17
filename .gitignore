@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Fichiers de l'IDE, archives et bases locales
+/.idea/
+*.zip
+*.db
